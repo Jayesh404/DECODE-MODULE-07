@@ -1,0 +1,4 @@
+Only two of them can be variable name:
+
+1._FLOAT
+2.FLOAT

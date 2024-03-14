@@ -1,0 +1,3 @@
+Size taken by int = 4 bytes
+Size taken by bool = 1 byte
+Size taken by float = 4 bytes
